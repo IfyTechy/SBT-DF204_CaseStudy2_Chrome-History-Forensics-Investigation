@@ -175,7 +175,7 @@ visit_id,url_id,visit_utc,from_visit,transition,core,transition_hex,duration_s,t
 5,4,2022-04-19 13:54:19,4,-1610612736,0,0xA0000000,2.46546,"craigslist: baltimore jobs, apartments, for sale, services, community, and events","https://baltimore.craigslist.org/"
 ```
 
-*(Truncated through visit 74 as recorded in the complete analysis report — the full CSV is preserved in the report appendices.)*
+*(Truncated through visit 74 as recorded in the complete analysis report - the full CSV is preserved in the report appendices.)*
 
 ## Evidence Log (E01 – E14)
 
